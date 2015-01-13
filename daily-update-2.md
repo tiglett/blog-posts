@@ -7,6 +7,7 @@ The uploading is also nearly finished. The JSON is correctly formed, the app has
 
  
 Hours spent today:
-  - 9am-5pm work in B23: 7 hours
-  - Additional time after 5: 1 hour
-  - Total so far: 37 hours
+
+ * 9am-5pm work in B23: 7 hours
+ * Additional time after 5: 1 hour
+ * Total so far: 37 hours

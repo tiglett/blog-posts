@@ -11,7 +11,8 @@ Well that’s about it for this week.
  
 
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - UML diagrams/doc: 1 hour
-  - Total this week: 2 hours
-  - Total so far: 7 hours
+
+ * Internal meeting: 1 hour
+ * UML diagrams/doc: 1 hour
+ * Total this week: 2 hours
+ * Total so far: 7 hours

@@ -10,6 +10,7 @@ The app is now much closer to being finished than it started this morning. All t
 I spent quite a bit of time today working on the GPS code whilst not sure whether it was my code or the Android emulator at fault. After fighting with the emulator to simulate GPS data, i’ve now switched to simply self-signing the app and testing it straight on my phone.
 
 Hours spent today:
-  - 9am-5pm work in B23: 7 hours
-  - Additional time after 5: 1 hour
-  - Total so far: 29 hours
+
+ * 9am-5pm work in B23: 7 hours
+ * Additional time after 5: 1 hour
+ * Total so far: 29 hours

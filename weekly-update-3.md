@@ -15,7 +15,8 @@ and would be accessed the same way.
 Well, that pretty much ties up this week’s work.
 
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - UML class diagram: 2 hours
-  - Total this week: 3 hours
-  - Total so far: 10 hours
+
+ * Internal meeting: 1 hour
+ * UML class diagram: 2 hours
+ * Total this week: 3 hours
+ * Total so far: 10 hours

@@ -7,7 +7,8 @@ This was fairly time consuming but should hopefully clear up what each class is 
 
  
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - Updating design page to include algoritms and class/method description: 3 hours
-  - Total this week: 4 hours
-  - Total so far: 17 hours
+
+ * Internal meeting: 1 hour
+ * Updating design page to include algoritms and class/method description: 3 hours
+ * Total this week: 4 hours
+ * Total so far: 17 hours

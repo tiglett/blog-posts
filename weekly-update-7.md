@@ -4,7 +4,8 @@ This week was intense due to an assignment hand-in and some online quiz question
 Unfortunately the prototype was not complete in time, however, enough of it was done to show that we could develop quickly if necessary.
 
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - Creating the app prototype: 3 hours
-  - Total this week: 4 hours
-  - Total so far: 21 hours
+
+ * Internal meeting: 1 hour
+ * Creating the app prototype: 3 hours
+ * Total this week: 4 hours
+ * Total so far: 21 hours

@@ -11,7 +11,8 @@ As far as pit-falls go it seems the biggest is probably that your app can be pau
 I’m sure there’s a lot more I could write about Java on Android, but these are (to me) some of the most interesting parts.
 
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - Android workshop: 3 hours
-  - Total this week: 4 hours
-  - Total so far: 4 hours
+
+ * Internal meeting: 1 hour
+ * Android workshop: 3 hours
+ * Total this week: 4 hours
+ * Total so far: 4 hours

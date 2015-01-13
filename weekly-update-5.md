@@ -8,7 +8,8 @@ I decided to take the .project file off the .gitignore in order for people to si
 I’m still waiting on the other group members to create their prototypes, but if they are having difficulties then it should be easy to resolve any issues and quickly finish these prototypes.
 
 Hours spent this week:
-  - Internal meeting: 1 hour
-  - Interface Prototype and github refactoring: 1 hour
-  - Total this week: 1 hours
-  - Total so far: 11 hours
+
+ * Internal meeting: 1 hour
+ * Interface Prototype and github refactoring: 1 hour
+ * Total this week: 1 hours
+ * Total so far: 11 hours
