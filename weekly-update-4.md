@@ -8,7 +8,7 @@ Dan – WalkCreatorActivity
 
 I will be prototyping an implementation of the IWalkController interface.
 
-Once these activities have been prototypes we can start working on the Controller and Model packages. The prototyped Activities will allow us to start testing prototyping and testing the other components of the application as the UI will be ready to interact with.
+Once these activities have been prototyped we can start working on the Controller and Model packages. The prototyped Activities will allow us to start testing prototyping and testing the other components of the application as the UI will be ready to interact with.
 
 Hours spent this week:
 
